@@ -1,0 +1,3 @@
+[submodule "shuri-guess-game-frontend"]
+	path = shuri-guess-game-frontend
+	url = https://github.com/stxpid-shxri/shuri-guess-game-frontend.git
