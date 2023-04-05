@@ -2,6 +2,8 @@
 
 This is a simple guessing number game from 1-5 between player and the owner. I applied everything ive learned from WSOS - Ackeeblock chain.
 
+IDLs, ProgramId are updated on the backend repo
+
 # Back-end  anchor/rust
 
 I've use beta.solpg.io for my program development. Tested it and deployed on devnet. After that ive exported it on my local anchor development.
