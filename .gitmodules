@@ -1,3 +1,6 @@
 [submodule "shuri-guess-game-frontend"]
 	path = shuri-guess-game-frontend
 	url = https://github.com/stxpid-shxri/shuri-guess-game-frontend.git
+[submodule "shuri-guess-game-rust"]
+	path = shuri-guess-game-rust
+	url = https://github.com/stxpid-shxri/shuri-guess-game-rust.git
